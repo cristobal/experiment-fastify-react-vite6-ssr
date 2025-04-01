@@ -1,0 +1,19 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "noEmit": true,
+    "checkJs": true,
+    "target": "ES2022",
+    "module": "ESNext",
+    "outDir": "dist",
+    "baseUrl": ".",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "bundler",
+    "skipLibCheck": true,
+    "noUnusedLocals": true,
+    "types": ["vite/client"],
+    "jsx": "react-jsx"
+  }
+}

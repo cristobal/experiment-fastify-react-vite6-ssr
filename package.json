@@ -1,0 +1,23 @@
+{
+  "name": "experiment-fastify-react-vite6-ssr",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "5.2.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "typescript": "5.8.2",
+    "vite": "6.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.12",
+    "@types/react-dom": "19.0.4"
+  }
+}
