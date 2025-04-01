@@ -1,2 +1,4 @@
 # experiment-fastify-react-vite6-ssr
-Experimenting SSR with Fastify inject, React and Vite6
+Dev Server Experiment for SSR React by leveraging usage of: 
+- Fastify inject
+- and Vite 6 Server Module Runner
